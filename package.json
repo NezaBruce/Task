@@ -1,0 +1,23 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NezaBruce/Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NezaBruce/Task/issues"
+  },
+  "homepage": "https://github.com/NezaBruce/Task#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
